@@ -1,2 +1,2 @@
-# demoprojects
+# DemoProjects
 demo artifacts
